@@ -1,60 +1,31 @@
 # Hi there 👋
 
-I'm Dhruv Tripathi, an aspiring cybersecurity professional passionate about defending systems, analyzing threats, and building secure networks
+I'm Dhruv Tripathi, an aspiring cybersecurity professional passionate about SOC analysis, security engineering, and network defense.
 
-## 🚀 About Me
-- 🔐 Interested in Cybersecurity, SOC Analysis, Security Engineering, and Network Engineering
-- 🛡️ Currently building my cybersecurity knowledge through hands-on labs and continuous learning
-- 🌱 Working toward a career in cybersecurity (SOC, Security Engineering, and more)
-- ⚡ Always learning something new every day
+🔐 Cybersecurity Interests: SOC, Security Engineering, Network Security  
+🛠️ Skills: Python, Java, SQL, Linux, TCP/IP, Networking Fundamentals, Wireshark, Nmap, SIEM basics  
+🧰 Tools: Git/GitHub, VS Code, Kali Linux, VirtualBox/VMware, TryHackMe  
 
-## 🧠 Skills & Technologies
-
-### Programming Languages
-- Python
-- Java
-- SQL
-
-### Cybersecurity & Networking
-- Linux
-- Networking Fundamentals
-- TCP/IP
-- Wireshark
-- Nmap
-- SIEM Basics
-
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Kali Linux
-- VirtualBox / VMware
-- TryHackMe
-
-## 🏆 Certifications
+🏆 Certifications:
 - CompTIA Security+
 - Google Cybersecurity Professional Certificate
 
-## 📚 Currently Learning
-- Cybersecurity fundamentals
-- Networking basics
-- Linux fundamentals
-- Security concepts & best practices
-- Hands-on labs through TryHackMe
-- Python for automation & scripting
+📚 Currently Learning:
+- Cybersecurity & networking fundamentals
+- Linux & system security
+- TryHackMe (Cybersecurity 101 path)
+- Python for automation
+- CCNA prep
 
-## 🔥 Hands-On Learning
-- Practicing daily on TryHackMe
-  - Currently working through the Cybersecurity 101 Path
-- Building practical cybersecurity and networking skills through labs and challenges
+🔥 Hands-on:
+- Daily TryHackMe practice
+- Building labs & security projects
 
-## 🎯 Goals
-- Build cybersecurity projects and home labs
-- Earn additional certifications (currently studying for CCNA)
-- Land an entry-level cybersecurity role (SOC Analyst, Junior Security Engineer, or similar)
-- Continue growing my cybersecurity and networking skills
+🎯 Goals:
+- Build cybersecurity home labs & projects
+- Earn CCNA
+- Land a SOC Analyst / Junior Security role
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvtripathi1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruv.tr03@gmail.com)
-
-Thanks for visiting my profile! 🚀
