@@ -5,7 +5,7 @@ I'm Dhruv Tripathi, an aspiring cybersecurity professional passionate about defe
 ## 🚀 About Me
 - 🔐 Interested in Cybersecurity, SOC Analysis, Security Engineering, and Network Engineering
 - 🛡️ Currently building my cybersecurity knowledge through hands-on labs and continuous learning
-- 🌱 Working toward becoming a SOC Analyst in the future
+- 🌱 Working toward a career in cybersecurity (SOC, Security Engineering, and more)
 - ⚡ Always learning something new every day
 
 ## 🧠 Skills & Technologies
@@ -50,7 +50,7 @@ I'm Dhruv Tripathi, an aspiring cybersecurity professional passionate about defe
 ## 🎯 Goals
 - Build cybersecurity projects and home labs
 - Earn additional certifications (currently studying for CCNA)
-- Become a SOC Analyst
+- Land an entry-level cybersecurity role (SOC Analyst, Junior Security Engineer, or similar)
 - Continue growing my cybersecurity and networking skills
 
 ## 🤝 Connect With Me
