@@ -1,14 +1,13 @@
 # Hi there 👋
 
-I'm Dhruv Tripathi, an aspiring cybersecurity professional passionate about SOC analysis, security engineering, and network defense.
+I'm Dhruv Tripathi, an aspiring cybersecurity professional passionate about SOC analysis, security engineering, and network defense
 
 🔐 Cybersecurity Interests: SOC, Security Engineering, Network Security  
 🛠️ Skills: Python, Java, SQL, Linux, TCP/IP, Networking Fundamentals, Wireshark, Nmap, SIEM basics  
 🧰 Tools: Git/GitHub, VS Code, Kali Linux, VirtualBox/VMware, TryHackMe  
 
 🏆 Certifications:
-- CompTIA Security+
-- Google Cybersecurity Professional Certificate
+- CompTIA Security+, Google Cybersecurity Professional Certificate
 
 📚 Currently Learning:
 - Cybersecurity & networking fundamentals
@@ -24,7 +23,7 @@ I'm Dhruv Tripathi, an aspiring cybersecurity professional passionate about SOC 
 🎯 Goals:
 - Build cybersecurity home labs & projects
 - Earn CCNA
-- Land a SOC Analyst / Junior Security role
+- Land a SOC Analyst / Junior Security role in the future
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvtripathi1)
