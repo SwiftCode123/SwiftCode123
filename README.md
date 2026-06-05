@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Dhruv Tripathi, an aspiring cybersecurity professional with interests in SOC operations, security engineering, and network defense
+I'm Dhruv Tripathi, an aspiring cybersecurity professional passionate about protecting systems, networks, and data. I have a particular interest in SOC operations, security engineering, network defense, threat detection, and the broader field of cybersecurity
 
 🏆 Certifications:
 - CompTIA Security+, Google Cybersecurity Professional Certificate
