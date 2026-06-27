@@ -2,6 +2,13 @@
 
 I'm Dhruv Tripathi, an aspiring cybersecurity professional passionate about protecting systems, networks, and data. I have a particular interest in SOC analysis, security engineering, network defense, threat detection, and the broader field of cybersecurity
 
+💻 Projects:
+- [MITRE-Sigma-Lookup-Tool](https://github.com/iamdhruvtripathi/MITRE-Sigma-Lookup-Tool)
+- [TryHackMe-Room-Writeups](https://github.com/iamdhruvtripathi/TryHackMe-Room-Writeups)
+
+🌐 Website:
+- [Portfolio Website](https://iamdhruvtripathi.github.io/)
+
 🏆 Certifications:
 - CompTIA Security+, Google Cybersecurity Professional Certificate
 
