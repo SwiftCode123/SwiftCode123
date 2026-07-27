@@ -17,7 +17,7 @@ I'm Dhruv Tripathi, an aspiring cybersecurity professional passionate about prot
 📚 Currently Learning:
 - Cybersecurity & networking fundamentals
 - Linux & system security
-- TryHackMe (Cybersecurity 101 path)
+- TryHackMe (SOC L1 Path)
 - Python for automation
 - CCNA prep
 
