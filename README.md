@@ -5,6 +5,8 @@ I'm Dhruv Tripathi, an aspiring cybersecurity professional passionate about prot
 💻 Projects:
 - [Active Directory Homelab](https://github.com/iamdhruvtripathi/Active-Directory-Homelab)
 - [MITRE Sigma Lookup Tool](https://github.com/iamdhruvtripathi/MITRE-Sigma-Lookup-Tool)
+
+📝 Writeups: 
 - [TryHackMe Room Writeups](https://github.com/iamdhruvtripathi/TryHackMe-Room-Writeups)
 
 🌐 Profiles:
