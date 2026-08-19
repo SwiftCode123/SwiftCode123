@@ -12,7 +12,7 @@ I'm Dhruv Tripathi, an aspiring cybersecurity professional passionate about prot
 🌐 Profiles:
 - [Portfolio Website](https://iamdhruvtripathi.github.io/)
 - [TryHackMe Profile](https://tryhackme.com/p/dhruv.tr03)
-- [Medium Profile] (https://medium.com/@dhruv.tr03)
+- [Medium Profile](https://medium.com/@dhruv.tr03)
 
 🏆 Certifications:
 - CompTIA Security+, Google Cybersecurity Professional Certificate
