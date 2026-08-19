@@ -14,9 +14,6 @@ I’m Dhruv Tripathi, an aspiring cybersecurity professional with a strong inter
 - [TryHackMe Profile](https://tryhackme.com/p/dhruv.tr03)
 - [Medium Profile](https://medium.com/@dhruv.tr03)
 
-🏆 Certifications:
-- CompTIA Security+, Google Cybersecurity Professional Certificate
-
 📚 Currently Learning:
 - Cybersecurity & networking fundamentals
 - TryHackMe (SOC L1 Path)
@@ -26,6 +23,9 @@ I’m Dhruv Tripathi, an aspiring cybersecurity professional with a strong inter
 - Daily TryHackMe practice
 - Building labs & security projects
 - Publishing writeups for selected rooms and challenges
+
+🏆 Certifications:
+- CompTIA Security+, Google Cybersecurity Professional Certificate
 
 🎯 Goals:
 - Build cybersecurity home labs & projects
