@@ -7,11 +7,12 @@ I'm Dhruv Tripathi, an aspiring cybersecurity professional passionate about prot
 - [MITRE Sigma Lookup Tool](https://github.com/iamdhruvtripathi/MITRE-Sigma-Lookup-Tool)
 
 📝 Writeups: 
-- [TryHackMe Room Writeups](https://github.com/iamdhruvtripathi/TryHackMe-Room-Writeups)
+- [Cybersecurity Writeups](https://github.com/iamdhruvtripathi/Cybersecurity-Writeups)
 
 🌐 Profiles:
 - [Portfolio Website](https://iamdhruvtripathi.github.io/)
 - [TryHackMe Profile](https://tryhackme.com/p/dhruv.tr03)
+- [Medium Profile] (https://medium.com/@dhruv.tr03)
 
 🏆 Certifications:
 - CompTIA Security+, Google Cybersecurity Professional Certificate
